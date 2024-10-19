@@ -1,4 +1,4 @@
-function New-Files {
+function New-FilesOrFolders {
   param (
     [Parameter(Mandatory = $true)]
     [string]$text
