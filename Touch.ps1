@@ -58,7 +58,7 @@ function Touch {
     }
 
   # ! New-File
-    {$PSItem -match "^.[^{}]+\..[^\/]+$"} {
+    {$PSItem -match "^.+$"} {
       New-File $path
       break
     }
