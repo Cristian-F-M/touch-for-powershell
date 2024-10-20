@@ -20,6 +20,4 @@ function New-File {
   }
 
   Show-MessageWithColor "File created" -Color Green
-  return $null
-
 }
