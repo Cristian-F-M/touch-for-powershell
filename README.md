@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Es repositorio fue movido a uno nuevo, haz [click aquí](https://github.com/Cristian-F-M/touch) para ir al nuevo repositorio.
+
+
 # Touch
 
 Un comando para **powershell** para crear archivos y carpetas de manera masiva.  
